@@ -16,11 +16,11 @@ library(BasketballAnalyzeR) #Dati sulle percentuali di squadra e dei singoli gio
 ```
 
 ```{r, cache = FALSE,include=FALSE}
-nbaplayers = read_csv("./Progetto-Data-Science/players.csv")
-gamesdetail = read_csv("./Progetto-Data-Science/games_details.csv")
-games = read_csv("./Progetto-Data-Science/games.csv")
-teams = read_csv("./Progetto-Data-Science/teams.csv")
-ranking = read_csv("./Progetto-Data-Science/ranking.csv")
+nbaplayers = read_csv("./players.csv")
+gamesdetail = read_csv("./games_details.csv")
+games = read_csv("./games.csv")
+teams = read_csv("./teams.csv")
+ranking = read_csv("./ranking.csv")
 ```
 
 ## Introduzione
